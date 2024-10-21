@@ -10,7 +10,7 @@ body{
     padding: 0 10px;
     justify-content: center;
     min-height: 100vh;
-    background-color: #5E63BA;
+    background-color: #2295f9;
 }
 .container {
     width: 850px;
@@ -72,7 +72,7 @@ body{
     font-weight: 600;
     outline: none;
     border: none;
-    background-color: #5E63BA;
+    background-color: #2295f9;
     border-radius: 4px;
     cursor: pointer;
 }
@@ -85,7 +85,7 @@ body{
     pointer-events: none;
 }
 :where(.game-model, .keyboard) button:hover{
-    background-color: #8286c9;
+    background-color: #74beff;
 }
 .game-model{
     position: fixed;
@@ -128,7 +128,7 @@ body{
     font-weight: 500;
 }
 .game-model p b{
-    color: #5E63BA;
+    color: #2295f9;
     font-weight: 600;
 }
 .game-model button{
